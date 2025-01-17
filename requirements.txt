@@ -1,0 +1,5 @@
+alembic==1.13.2
+fastapi==0.100.1
+pydantic==2.7.4
+SQLALchemy==2.0.31
+univorn==0.22.0
